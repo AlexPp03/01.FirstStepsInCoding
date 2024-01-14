@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\bin\Debug\net8.0\Greeting by Name.exe
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\bin\Debug\net8.0\Greeting by Name.deps.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\bin\Debug\net8.0\Greeting by Name.runtimeconfig.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\bin\Debug\net8.0\Greeting by Name.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\bin\Debug\net8.0\Greeting by Name.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\obj\Debug\net8.0\Greeting by Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\obj\Debug\net8.0\Greeting by Name.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\obj\Debug\net8.0\Greeting by Name.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\obj\Debug\net8.0\Greeting by Name.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\obj\Debug\net8.0\Greeting by Name.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\obj\Debug\net8.0\refint\Greeting by Name.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\obj\Debug\net8.0\Greeting by Name.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\obj\Debug\net8.0\Greeting by Name.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Greeting by Name\obj\Debug\net8.0\ref\Greeting by Name.dll
