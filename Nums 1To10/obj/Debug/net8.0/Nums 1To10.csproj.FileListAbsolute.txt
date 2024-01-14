@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\bin\Debug\net8.0\Nums 1To10.exe
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\bin\Debug\net8.0\Nums 1To10.deps.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\bin\Debug\net8.0\Nums 1To10.runtimeconfig.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\bin\Debug\net8.0\Nums 1To10.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\bin\Debug\net8.0\Nums 1To10.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\obj\Debug\net8.0\Nums 1To10.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\obj\Debug\net8.0\Nums 1To10.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\obj\Debug\net8.0\Nums 1To10.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\obj\Debug\net8.0\Nums 1To10.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\obj\Debug\net8.0\Nums 1To10.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\obj\Debug\net8.0\refint\Nums 1To10.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\obj\Debug\net8.0\Nums 1To10.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\obj\Debug\net8.0\Nums 1To10.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Nums 1To10\obj\Debug\net8.0\ref\Nums 1To10.dll
