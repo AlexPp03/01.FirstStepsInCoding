@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\bin\Debug\net8.0\Projects Creation.exe
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\bin\Debug\net8.0\Projects Creation.deps.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\bin\Debug\net8.0\Projects Creation.runtimeconfig.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\bin\Debug\net8.0\Projects Creation.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\bin\Debug\net8.0\Projects Creation.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\obj\Debug\net8.0\Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\obj\Debug\net8.0\Projects Creation.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\obj\Debug\net8.0\Projects Creation.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\obj\Debug\net8.0\Projects Creation.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\obj\Debug\net8.0\Projects Creation.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\obj\Debug\net8.0\refint\Projects Creation.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\obj\Debug\net8.0\Projects Creation.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\obj\Debug\net8.0\Projects Creation.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Projects Creation\obj\Debug\net8.0\ref\Projects Creation.dll
