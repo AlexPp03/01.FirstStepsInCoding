@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\bin\Debug\net8.0\Rectangle Area.exe
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\bin\Debug\net8.0\Rectangle Area.deps.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\bin\Debug\net8.0\Rectangle Area.runtimeconfig.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\bin\Debug\net8.0\Rectangle Area.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\bin\Debug\net8.0\Rectangle Area.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\obj\Debug\net8.0\Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\obj\Debug\net8.0\Rectangle Area.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\obj\Debug\net8.0\Rectangle Area.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\obj\Debug\net8.0\Rectangle Area.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\obj\Debug\net8.0\Rectangle Area.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\obj\Debug\net8.0\refint\Rectangle Area.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\obj\Debug\net8.0\Rectangle Area.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\obj\Debug\net8.0\Rectangle Area.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Rectangle Area\obj\Debug\net8.0\ref\Rectangle Area.dll
