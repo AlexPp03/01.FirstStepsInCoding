@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\bin\Debug\net8.0\Pet Shop.exe
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\bin\Debug\net8.0\Pet Shop.deps.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\bin\Debug\net8.0\Pet Shop.runtimeconfig.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\bin\Debug\net8.0\Pet Shop.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\bin\Debug\net8.0\Pet Shop.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\obj\Debug\net8.0\Pet Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\obj\Debug\net8.0\Pet Shop.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\obj\Debug\net8.0\Pet Shop.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\obj\Debug\net8.0\Pet Shop.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\obj\Debug\net8.0\Pet Shop.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\obj\Debug\net8.0\refint\Pet Shop.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\obj\Debug\net8.0\Pet Shop.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\obj\Debug\net8.0\Pet Shop.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Pet Shop\obj\Debug\net8.0\ref\Pet Shop.dll
