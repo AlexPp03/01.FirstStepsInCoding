@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\bin\Debug\net8.0\Inches to Centimeters.exe
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\bin\Debug\net8.0\Inches to Centimeters.deps.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\bin\Debug\net8.0\Inches to Centimeters.runtimeconfig.json
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\bin\Debug\net8.0\Inches to Centimeters.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\bin\Debug\net8.0\Inches to Centimeters.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\obj\Debug\net8.0\Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\obj\Debug\net8.0\Inches to Centimeters.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\obj\Debug\net8.0\Inches to Centimeters.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\obj\Debug\net8.0\Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\obj\Debug\net8.0\Inches to Centimeters.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\obj\Debug\net8.0\refint\Inches to Centimeters.dll
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\obj\Debug\net8.0\Inches to Centimeters.pdb
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\obj\Debug\net8.0\Inches to Centimeters.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\01.FirstLesson\Inches to Centimeters\obj\Debug\net8.0\ref\Inches to Centimeters.dll
